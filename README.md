@@ -23,4 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
++<img src="instagram.gif?raw=true" width="200px">
+
 <img src='https://i.imgur.com/IK6jKQ1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
