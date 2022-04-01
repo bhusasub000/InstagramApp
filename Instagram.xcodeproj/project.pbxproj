@@ -23,6 +23,7 @@
 		BB5048BF27ED46EA00A1123F /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5048BE27ED46EA00A1123F /* LoginViewController.swift */; };
 		BB5048C127ED4C2200A1123F /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5048C027ED4C2200A1123F /* CameraViewController.swift */; };
 		BB5048C327ED56F800A1123F /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB5048C227ED56F800A1123F /* PostCell.swift */; };
+		BBA0A24127F637B200255DFB /* CommentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBA0A24027F637B200255DFB /* CommentTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		BB5048BE27ED46EA00A1123F /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		BB5048C027ED4C2200A1123F /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		BB5048C227ED56F800A1123F /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		BBA0A24027F637B200255DFB /* CommentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				BB50488B27ED416900A1123F /* SceneDelegate.swift */,
 				BB5048BE27ED46EA00A1123F /* LoginViewController.swift */,
 				BB5048BC27ED46D500A1123F /* FeedViewController.swift */,
+				BBA0A24027F637B200255DFB /* CommentTableViewCell.swift */,
 				BB5048C027ED4C2200A1123F /* CameraViewController.swift */,
 				BB50488F27ED416900A1123F /* Main.storyboard */,
 				BB50489527ED416C00A1123F /* Assets.xcassets */,
@@ -421,6 +424,7 @@
 				BB5048C327ED56F800A1123F /* PostCell.swift in Sources */,
 				BB5048BF27ED46EA00A1123F /* LoginViewController.swift in Sources */,
 				BB50489427ED416900A1123F /* Instagram.xcdatamodeld in Sources */,
+				BBA0A24127F637B200255DFB /* CommentTableViewCell.swift in Sources */,
 				BB5048BD27ED46D500A1123F /* FeedViewController.swift in Sources */,
 				BB50488A27ED416900A1123F /* AppDelegate.swift in Sources */,
 				BB50488C27ED416900A1123F /* SceneDelegate.swift in Sources */,
